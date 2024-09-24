@@ -49,6 +49,8 @@ Create a .env file in the root directory and add your MongoDB connection string:
 
 ```bash
 MONGO_URI=mongodb://localhost:27017/db  # Or your MongoDB Atlas URI
+PUBLIC_HOST=localhost
+PORT=8000
 ```
 
 Run the application:

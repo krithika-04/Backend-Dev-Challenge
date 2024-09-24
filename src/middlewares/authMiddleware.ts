@@ -1,8 +1,9 @@
 import { Request, Response, NextFunction } from "express";
 import { ExtendedRequest } from "../types/expressRequest";
 import jwt from "jsonwebtoken";
+import { config } from "../config";
 
-const secretKey = "wysa-secret-key";
+const secretKey = config.secretKey;
 
 export const authenticateToken = (
   req: ExtendedRequest,

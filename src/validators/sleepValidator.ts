@@ -11,9 +11,9 @@ export const sleepAssesmentSchema = z.object({
     })
     .optional(),
 
-  bedTime: z.date().optional(),
+  bedTime: z.string().datetime().optional(),
 
-  wakeUpTime: z.date().optional(),
+  wakeUpTime: z.string().datetime().optional(),
 
   sleepDuration: z
     .number()

@@ -87,10 +87,6 @@ Sleep Assesment Api:
 
 ![image](https://github.com/user-attachments/assets/54ceb8ba-c480-41b9-b041-b6a23dfa386b)
 
-![image](https://github.com/user-attachments/assets/ec9f80be-78d2-4faa-8d1f-8a47b0beaedc)
-
-![image](https://github.com/user-attachments/assets/8f4e075d-67c7-4ead-93f7-3518f8ce302f)
-
 ![image](https://github.com/user-attachments/assets/473b4623-a6a4-4051-a37a-71e98024c046)
 
 
